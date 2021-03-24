@@ -44,3 +44,6 @@ section{
    display: flex;
    justify-content: space-evenly;
 }
+section.border-sample{
+   background-color: aquamarine;
+}
