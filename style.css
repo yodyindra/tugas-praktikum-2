@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.border-sample{
+    border:thin solid black !important;
+}
+header{
+   color: #6495ED;
+   font-size: 24pt;
+   padding: 20px;
+}
+footer{
+   color: rgb(100, 149, 237);
+   font-size: 24pt;
+}
+body{
+   font-family: 'Noto Sans JP', sans-serif;
+   color: #4e4e4e;
+   font-size: 16pt;
+}
+.container{
+   padding: 20px;
+}
+h1{
+   margin-bottom: 20px;
+}
+.content{
+   margin-bottom: 30px;
+   text-align: justify;
+}
+p{
+   margin-bottom: 10px;
+}
+section{
+   margin-bottom: 20px;
+   padding: 15px;
+   font-size: 16px;
+}
+.section-container{
+   display: flex;
+   justify-content: space-evenly;
+}
