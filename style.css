@@ -5,6 +5,7 @@
 
 .border-sample{
     border:thin solid black !important;
+    background-color: aliceblue;
 }
 header{
    color: #6495ED;
